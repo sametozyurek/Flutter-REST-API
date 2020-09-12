@@ -6,3 +6,4 @@ You can find the screenshots below when after running the project.
 
 ## Screenshoots
 
+file:///C:/Users/ozyurek/Desktop/flutter/get-post-api/getUsers.PNG
