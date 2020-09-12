@@ -2,8 +2,6 @@
 
 Flutter file of a simple example of restful api with flutter and spring boot.
 
-You can find the screenshots below when after running the project.
 
-## Screenshoots
-
-file:///C:/Users/ozyurek/Desktop/flutter/get-post-api/getUsers.PNG
+For your questions and contact:
+  samet.ozyurk@gmail.com
